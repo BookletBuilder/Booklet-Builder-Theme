@@ -1,1 +1,1 @@
-The default theme for the Booklet Builder application
+The default Drupal theme for the Booklet Builder application
