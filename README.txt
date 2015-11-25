@@ -1,0 +1,1 @@
+The default theme for the Booklet Builder application
