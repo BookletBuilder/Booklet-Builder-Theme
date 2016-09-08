@@ -5,12 +5,17 @@ description = Custom overrides of base Bartik theme.
 version = VERSION
 core = 7.x
 
+stylesheets[all][] = css/fonts/_fonts.css
+
 stylesheets[all][] = css/colors.css
 stylesheets[all][] = css/color-overrides.css
 stylesheets[all][] = css/color-overrides-olckb-toolbar.css
+
 stylesheets[all][] = css/font-overrides.css
 stylesheets[all][] = css/font-overrides-custom.css
+
 stylesheets[all][] = css/form-overrides.css
+
 stylesheets[all][] = css/olcbartik.css
 stylesheets[all][] = css/page.css
 stylesheets[all][] = css/user-menu.css
