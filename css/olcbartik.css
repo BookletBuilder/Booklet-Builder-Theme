@@ -1,4 +1,16 @@
 
+#logo {
+  
+  padding-left: 30px;
+
+}
+
+  #logo img {
+
+    margin: -10px;
+
+  }
+
 #name-and-slogan {
 
     -moz-box-sizing: border-box;
@@ -10,7 +22,7 @@
     margin-left: 0;
     width: 66.66%;
     padding-top: 32px;
-    padding-left: 21px;
+    padding-left: 4px;
 }
 
 #site-name {
