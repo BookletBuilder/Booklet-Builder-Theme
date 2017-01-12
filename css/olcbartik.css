@@ -1,4 +1,18 @@
 
+body {
+  font-size: 1.1em;
+}
+#main-menu-links {
+
+  font-size: .8em !important;
+
+}
+.tabs ul.primary li a {
+
+  font-size: .8em !important;
+
+}
+
 #logo {
   
   padding-left: 30px;
