@@ -6,10 +6,12 @@ version = VERSION
 core = 7.x
 
 stylesheets[all][] = css/colors.css
-stylesheets[all][] = css/form-overrides.css
 stylesheets[all][] = css/olcbartik.css
-stylesheets[all][] = css/page.css
-stylesheets[all][] = css/user-menu.css
+stylesheets[all][] = css/_fonts/_olcbartik-fonts.css
+stylesheets[all][] = css/olcbartik-font.css
+stylesheets[all][] = css/olcbartik-form.css
+stylesheets[all][] = css/olcbartik-page.css
+stylesheets[all][] = css/olcbartik-user-menu.css
 
 regions[header] = Header
 regions[help] = Help
@@ -31,3 +33,4 @@ regions[footer_secondcolumn] = Footer second column
 regions[footer_thirdcolumn] = Footer third column
 regions[footer_fourthcolumn] = Footer fourth column
 regions[footer] = Footer
+
